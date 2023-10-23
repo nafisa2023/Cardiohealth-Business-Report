@@ -1,1 +1,2 @@
 # Cardiohealth-Business-Report
+The aim of this cardio-business-report is to analyse the given data and refine and present them in a form that is easy to understand. There are several factors like age, gender, height,weight, lifestyle choice. The modules, functions and code have been used to lay a relation between the factors and cardiovascular disease. In the repository, the codes, comments, visuals, the analysis report can be found.
